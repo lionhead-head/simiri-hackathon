@@ -1,6 +1,6 @@
 # Simiri Hackathon Simulation
 
-Simiri is an open direct commerce network coordinated by agents.
+Simiri is a direct commerce network coordinated by agents.
 
 This repository is a public-safe simulation for hackathon review. It demonstrates
 how a synthetic commerce scenario can be accepted and evaluated without exposing
