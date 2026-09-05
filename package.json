@@ -1,0 +1,15 @@
+{
+  "name": "simiri-hackathon",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public-safe, synthetic evaluation harness for Simiri hackathons.",
+  "type": "module",
+  "scripts": {
+    "demo": "node scripts/simulate.mjs fixtures/shop-walk.json",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+

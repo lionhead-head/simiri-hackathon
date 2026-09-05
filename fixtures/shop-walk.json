@@ -1,0 +1,27 @@
+{
+  "scenarioId": "synthetic-shop-walk-001",
+  "mode": "synthetic",
+  "currency": "NGN",
+  "scenarioType": "RESTOCK_REVIEW",
+  "observations": [
+    {
+      "kind": "inventory_note",
+      "itemCode": "RICE_5KG",
+      "quantity": 2
+    },
+    {
+      "kind": "inventory_note",
+      "itemCode": "COOKING_OIL_1L",
+      "quantity": 4
+    },
+    {
+      "kind": "inventory_note",
+      "itemCode": "LAUNDRY_SOAP_BAR",
+      "quantity": 8
+    }
+  ],
+  "constraints": {
+    "budgetMinor": 2500000,
+    "maxOptions": 3
+  }
+}
